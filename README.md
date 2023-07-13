@@ -12,7 +12,7 @@ This README.md file provides instructions on how to build and run the applicatio
 1. Clone the repository:
 
    ```bash
-   git clone <https://douglas-tech.github.io/mysite_T10/>
+   git clone <https://github.com/Douglas-tech/mysite_T10>
 
 Navigate to the project directory:
 cd <mysite>
